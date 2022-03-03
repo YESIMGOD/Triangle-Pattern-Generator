@@ -10,7 +10,7 @@ n=500
 h=0
 
 for i in range (360):
-    col=colorsys.hsv_to_rgb(h,2,0.1)  #hsv = Hue Saturation and Vue
+    col=colorsys.hsv_to_rgb(h,1,0.8)  #hsv = Hue Saturation and Vue
     h+=1/n
     tu.color(col)
     for j in range (2):
