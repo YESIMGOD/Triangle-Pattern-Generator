@@ -1,5 +1,5 @@
-from tkinter import N  #tkinter - Framework for creating GUI based elements.
-import turtle          #turtle - Module providing drawing board like featuers.
+from tkinter import N  #tkinter  - Framework for creating GUI based elements.
+import turtle          #turtle   - Module providing drawing board like featuers.
 import colorsys        #colorsys - Module serving as a conversion function between RGB and other colors.
 
 tu=turtle.Turtle()
